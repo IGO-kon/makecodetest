@@ -126,6 +126,25 @@ ddd3bbbbbbdddddddddddd3bbbbbbbbbddddddddddd3bbbbbbdddddddddddd3bbbbbbbbbdddddddd
 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
 `;
+            case "image2":
+            case "myImage":return img`
+f f f f f f f f f f f f f f f f 
+f f f f 5 f 5 5 f f f f f f f f 
+f f f 5 f f f f 5 5 f f f f f f 
+f f 5 f f f f f f 5 f f f f f f 
+f 5 f f f f f f f 5 f f f f f f 
+f f 5 f f f f f f 5 f f f f f f 
+f f f 5 f f f f f 5 f f f f f f 
+f f f f f f f f 5 5 f f f f f f 
+f f f f f f f f 5 f f f f f f f 
+f f f f f f f 5 5 f f 5 f f f f 
+f f f f f 5 5 5 f f f 5 f f f f 
+f f f f f 5 f f f f f 5 f f f f 
+f f f f 5 f f f f f f 5 f f f f 
+f f f 5 5 f f f f f f 5 f f f f 
+f f f f 5 5 5 5 5 5 5 5 f f f f 
+f f f f f f f f f f f f f f f f 
+`;
         }
         return null;
     })

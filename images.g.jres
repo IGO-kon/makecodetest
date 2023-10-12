@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "autumn"
     },
+    "image2": {
+        "data": "hwQQABAAAAD/////////////9f///////19f////////9f/1//9f/1///////1X1//////9V//Vf//////X/9V////9f9f/1//X/X1X///X/VVVV////9f/////////1/////19VVfX//////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
